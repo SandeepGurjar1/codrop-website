@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c026f27.css",
+    "main.js": "/static/js/main.447fe7e1.js",
+    "static/js/787.424581ce.chunk.js": "/static/js/787.424581ce.chunk.js",
+    "static/media/water_splash.png": "/static/media/water_splash.7098ae5ea42198277cf8.png",
+    "static/media/commin_soon.png": "/static/media/commin_soon.f71b587ba3569a4a3e8f.png",
+    "static/media/wings.png": "/static/media/wings.0156207f69ab525d1636.png",
+    "static/media/1.png": "/static/media/1.3d17daf50652d0618498.png",
+    "static/media/photo_polaroid.png": "/static/media/photo_polaroid.bdbff6aac8e1922d24de.png",
+    "static/media/37.png": "/static/media/37.421f880c90b12e2a75b3.png",
+    "static/media/27.png": "/static/media/27.81c9263856bde0eff072.png",
+    "static/media/comming_soon.png": "/static/media/comming_soon.3d645909fd71f4c69528.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/comming_up.png": "/static/media/comming_up.d74c8cf18298f80b721f.png",
+    "static/media/logo.png": "/static/media/logo.b8825bc11a75dc870a75.png",
+    "static/media/codechef.png": "/static/media/codechef.c26d557e203e50b93d7b.png",
+    "static/media/bottom_circle_shadow.png": "/static/media/bottom_circle_shadow.e05a2aae4494ab88133e.png",
+    "static/media/login_avatar.png": "/static/media/login_avatar.ab0593da452fb6aad5c9.png",
+    "static/media/leetcode.png": "/static/media/leetcode.f9d82ad6fac03f7f8222.png",
+    "index.html": "/index.html",
+    "main.2c026f27.css.map": "/static/css/main.2c026f27.css.map",
+    "main.447fe7e1.js.map": "/static/js/main.447fe7e1.js.map",
+    "787.424581ce.chunk.js.map": "/static/js/787.424581ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c026f27.css",
+    "static/js/main.447fe7e1.js"
+  ]
+}

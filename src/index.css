@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light:regular);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --background: white;
+  --text-primary: black;
+  --text-secondary: royalblue;
+  --accent: purple;
+}
+[data-theme='dark'] {
+  --background: black;
+  --text-primary: white;
+  --text-secondary: grey;
+  --accent: darkred;
+}
+
+html[data-theme="dark"]{
+  background: #000;
+  filter: invert(1) hue-rotate(180deg);
+}
+
+html[data-theme="dark"] .ignore-invert{
+  filter: invert(1) hue-rotate(180deg) !important;
+}
+
+body {
+  font-family: "Shadows Into Light", cursive;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+  background-color: var(--background-color);
+  color: var(--font-color);
+}
+
+
+/* No link decoration */
+*{
+  text-decoration: none !important;
+}
+
+/* Importing tailwind css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
