@@ -10,7 +10,7 @@ coDrop is a learning and performance tracking platform for daily coders like you
 
 
 ## Running Locally
-Step 1 : Fork this project and save it locally using command ```gh repo clone shyam640/codrop``` or download it in zip format.
+Step 1 : Fork this project and save it locally using command ```gh repo clone sandeepgurjar1/codrop-website``` or download it in zip format.
 
 Step 2 : Open terminal and write command ```npm install```
 
